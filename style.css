@@ -1,0 +1,13 @@
+#header {
+    color: white;
+    background-color: blue;
+    height: 25px;
+    width: 100%;
+}
+
+#input-group {
+    margin: auto;
+    width: 1000px;
+    border: black solid 1px;
+    padding: 10px;
+}
